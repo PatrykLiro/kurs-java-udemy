@@ -1,6 +1,6 @@
 package org.example.stringAll;
 
-public class stringMethodsChallenge {
+public class StringMethodsChallenge {
     public static void main(String[] args) {
         String txt = "Ola ma kota. ".repeat(3);
         txt = txt.replaceAll("Ola", "Kasia");

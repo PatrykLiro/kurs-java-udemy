@@ -1,6 +1,6 @@
 package org.example.stringAll;
 
-public class concatChallenge {
+public class ConcatChallenge {
     public static void main(String[] args) {
         String namesTable[] = {"Patryk", "Arek", "Damian", "Daniel"};
         String nameString = "";
