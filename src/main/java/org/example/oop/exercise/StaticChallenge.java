@@ -1,4 +1,4 @@
-package org.example.oop;
+package org.example.oop.exercise;
 
 class Item {
     public static int numItems = 0;

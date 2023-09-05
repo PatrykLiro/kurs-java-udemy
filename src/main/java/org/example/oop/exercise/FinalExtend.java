@@ -1,4 +1,5 @@
-package org.example.oop;
+/*
+package org.example.oop.exercise;
 
 class Employee {
     String name;
@@ -15,7 +16,7 @@ class Employee {
     }
 }
 
-class Administrator extends Employee {
+class Administrator {
     String certificates;
     Administrator(String name, String surname, String certificates) {
         this.name = name;
@@ -27,7 +28,7 @@ class Administrator extends Employee {
     }
 }
 
-class Programmer extends Employee {
+class Programmer {
     String languages;
     Programmer(String name, String surname, String languages) {
         this.name = name;
@@ -49,3 +50,4 @@ public class FinalExtend {
         administrator.printInfo();
     }
 }
+*/
